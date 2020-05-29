@@ -1,7 +1,10 @@
 # usfinal
-
 A new Flutter project.
-
+## Integrantes
+Andres Camilo Morales
+Alexander Granados
+Brando Alexander Lopez
+Gilbert Guevarra
 ## Getting Started
 
 This project is a starting point for a Flutter application.
